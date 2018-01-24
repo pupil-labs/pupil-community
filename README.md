@@ -35,4 +35,4 @@ If you have videos you want to add then you could make an issue with the Youtube
  
 ## Youtube Playlist
 
-- https://www.youtube.com/watch?v=X_BalnBOcpk&list=PLi20Yl1k_57pr6zl9D6JHSrOWyLXxsTQN
+- [Pupil Demos](https://www.youtube.com/watch?v=X_BalnBOcpk&list=PLi20Yl1k_57pr6zl9D6JHSrOWyLXxsTQN) - Community contributed playlist
