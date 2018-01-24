@@ -5,7 +5,7 @@ This repository is a `README` only repository for community contributed plugins 
 ## Contributing
 Want to add your plugin, script, or project to this list? Submit your work by making a PR with a link and short description in the README file.
 
-If you have videos you want to add then you could make an issue with the Youtube link and we will add the video to our Youtube playlist
+If you have videos you want to add then you could make an issue with the Youtube link and we will add the video to our Youtube playlist.
 
 ## Projects & Forks
 
