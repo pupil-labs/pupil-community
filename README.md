@@ -5,6 +5,8 @@ This repository is a `README` only repository for community contributed plugins 
 ## Contributing
 Want to add your plugin, script, or project to this list? Submit your work by making a PR with a link and short description in the README file.
 
+If you have videos you want to add then you could make an issue with the Youtube link and we will add the video to our Youtube playlist
+
 ## Projects & Forks
 
 - [Plugin to Perceive the Object in Focus](https://github.com/jesseweisberg/pupil) - Real-time object-detection plugin that integrates eye-tracking (fixation data) to identify which object the user is currently fixated upon. An example of its potential is shown in controlling grasps of a robotic prosthetic hand. Part of the [Therabotics Project](https://www.jesseweisberg.com/therabotics/)
@@ -31,3 +33,6 @@ Want to add your plugin, script, or project to this list? Submit your work by ma
 - [Pupil Pascal Client](https://github.com/cpicanco/pupil-fpc) - Free Pascal requester and subscriber clients for Pupil.
 - [Pupil MatLab Client](https://github.com/matiarj/pupil-helpers/tree/matlabAddV2/pupil_remote/Matlab_Python) - MatLab subscriber client for Pupil.
  
+## Youtube Playlist
+
+- https://www.youtube.com/watch?v=X_BalnBOcpk&list=PLi20Yl1k_57pr6zl9D6JHSrOWyLXxsTQN
