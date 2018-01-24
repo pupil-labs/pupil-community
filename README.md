@@ -1,11 +1,11 @@
 # pupil-community
 
-This repository is a `README` only repository for community contributed plugins and projects using [Pupil](https://github.com/pupil-labs/pupil).
+This repository is a `README` only repository for community contributed projects, forks, plugins, scripts, and videos using [Pupil](https://github.com/pupil-labs/pupil) - open source eye tracking platform.
 
 ## Contributing
-Want to add your plugin, script, or project to this list? Submit your work by making a PR with a link and short description in the README file.
+Want to add your project, fork, plugin, or script to this list? Fork this repo and make a [Pull Request](https://github.com/pupil-labs/pupil-community/issues) with a link and short description in the README file.
 
-If you have videos you want to add then you could make an issue with the Youtube link and we will add the video to our Youtube playlist.
+Want to add your demo video to this list? Make an issue [issue](https://github.com/pupil-labs/pupil-community/issues) with the Youtube link and the maintainers will add the video to [this Youtube playlist](https://www.youtube.com/watch?v=X_BalnBOcpk&list=PLi20Yl1k_57pr6zl9D6JHSrOWyLXxsTQN).
 
 ## Projects & Forks
 
@@ -33,6 +33,6 @@ If you have videos you want to add then you could make an issue with the Youtube
 - [Pupil Pascal Client](https://github.com/cpicanco/pupil-fpc) - Free Pascal requester and subscriber clients for Pupil.
 - [Pupil MatLab Client](https://github.com/matiarj/pupil-helpers/tree/matlabAddV2/pupil_remote/Matlab_Python) - MatLab subscriber client for Pupil.
  
-## Youtube Playlist
+## Demo Videos
 
-- [Pupil Demos](https://www.youtube.com/watch?v=X_BalnBOcpk&list=PLi20Yl1k_57pr6zl9D6JHSrOWyLXxsTQN) - Community contributed playlist
+- [Pupil Demo Videos](https://www.youtube.com/watch?v=X_BalnBOcpk&list=PLi20Yl1k_57pr6zl9D6JHSrOWyLXxsTQN) - A playlist of community contributed videos.
