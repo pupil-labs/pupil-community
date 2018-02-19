@@ -32,6 +32,7 @@ Want to add your demo video to this list? Make an [issue](https://github.com/pup
 - [Lab Matlab Control](https://github.com/TheGoldLab/Lab-Matlab-Control/tree/62d56585ef2fda3c17045dfcdc69e159eb317a38) - Custom utilities for experimental control.
 - [Pupil Pascal Client](https://github.com/cpicanco/pupil-fpc) - Free Pascal requester and subscriber clients for Pupil.
 - [Pupil MatLab Client](https://github.com/matiarj/pupil-helpers/tree/matlabAddV2/pupil_remote/Matlab_Python) - MatLab subscriber client for Pupil.
+- [Pupil Middleman](https://github.com/mtaung/pupil_middleman#running-the-middleman) - A middleman client written in python, to be used when interfacing Pupil-Recorder with languages lacking native zeromq support. 
  
 ## Demo Videos
 
