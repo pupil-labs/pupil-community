@@ -33,7 +33,9 @@ Want to add your demo video to this list? Make an [issue](https://github.com/pup
 - [Pupil Pascal Client](https://github.com/cpicanco/pupil-fpc) - Free Pascal requester and subscriber clients for Pupil.
 - [Pupil MatLab Client](https://github.com/matiarj/pupil-helpers/tree/matlabAddV2/pupil_remote/Matlab_Python) - MatLab subscriber client for Pupil.
 - [Pupil Middleman](https://github.com/mtaung/pupil_middleman#pupil-middleman) - A middleman client written in Python. This client can be used to interface with Pupil Capture and other sytems and languages that do not natively support ZeroMQ. 
- 
+- [Surface OSC Bridge](https://github.com/papr/pupil-helpers/tree/oscbridge/pupil_remote/OSC_Python) - Redirects
+surface data using the [`OSC` protocol](http://opensoundcontrol.org/introduction-osc).
+
 ## Demo Videos
 
 - [Pupil Demo Videos](https://www.youtube.com/watch?v=X_BalnBOcpk&list=PLi20Yl1k_57pr6zl9D6JHSrOWyLXxsTQN) - A playlist of community contributed videos.
