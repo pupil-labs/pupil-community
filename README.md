@@ -15,6 +15,7 @@ Want to add your demo video to this list? Make an [issue](https://github.com/pup
 - [Focal](http://stewartgreenhill.com/articles/focal/) - Focal is an experimental eye-tracking musical expression controller which allows hands-free control over audio effects and synthesis parameters during performance. A see-through head-mounted display projects virtual dials and switches into the visual field.
 - [Graph viz eye tracker](https://github.com/Saftophobia/graph-viz-eye-tracker) - Creating a gaze-aided graph navigating application using Unity3D and Pupil-lab.
 - [Optical Dimension Spatial Thinking - ODST](https://github.com/Ruzzy77/ODST) - Gaze controlled interface using gaze data and voice recognition.
+- [PuRe Detector](https://github.com/mattem86/pupil/tree/PuRe-Detector) - Included the PuRe Detector from Santini et al. into the Pupil Labs GUI. It is a 2D only detector (for now) and can only be used in non-commercial applications. Thiago Santini, Wolfgang Fuhl, Enkelejda Kasneci, PuRe: Robust pupil detection for real-time pervasive eye tracking, Computer Vision and Image Understanding, 2018, ISSN 1077-3142, https://doi.org/10.1016/j.cviu.2018.02.002. Based on https://atreus.informatik.uni-tuebingen.de/santini/EyeRecToo/tree/master/EyeRecToo
 
 ## Plugins
 
