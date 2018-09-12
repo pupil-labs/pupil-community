@@ -17,6 +17,7 @@ Want to add your demo video to this list? Make an [issue](https://github.com/pup
 - [Optical Dimension Spatial Thinking - ODST](https://github.com/Ruzzy77/ODST) - Gaze controlled interface using gaze data and voice recognition.
 - [PuRe Detector](https://github.com/mattem86/pupil/tree/PuRe-Detector) - Included the PuRe Detector from Santini et al. into the Pupil Labs GUI. It is a 2D only detector (for now) and can only be used in non-commercial applications. Thiago Santini, Wolfgang Fuhl, Enkelejda Kasneci, PuRe: Robust pupil detection for real-time pervasive eye tracking, Computer Vision and Image Understanding, 2018, ISSN 1077-3142, https://doi.org/10.1016/j.cviu.2018.02.002. Based on https://atreus.informatik.uni-tuebingen.de/santini/EyeRecToo/tree/master/EyeRecToo
 - [PupilCamC++](https://github.com/themrx/PupilCapture) - Interface for capture of Pupil labs cameras with C++, primarily for windows
+- [Mobile Gaze Mapping](https://github.com/jeffmacinnes/mobileGazeMapping) - Automatic gaze mapping between world camera and a fixed reference stimulus. This tool provides automatic detection of a 2D target stimulus in a mobile eye-tracking recording, and translates recorded gaze data from the world camera to the fixed coordinate system of the stimulus itself. 
 
 ## Plugins
 
