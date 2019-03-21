@@ -39,6 +39,7 @@ Want to add your demo video to this list? Make an [issue](https://github.com/pup
 - [Pupil Middleman](https://github.com/mtaung/pupil_middleman#pupil-middleman) - A middleman client written in Python. This client can be used to interface with Pupil Capture and other sytems and languages that do not natively support ZeroMQ. 
 - [Surface OSC Bridge](https://github.com/papr/pupil-helpers/tree/oscbridge/pupil_remote/OSC_Python) - Redirects
 surface data using the [`OSC` protocol](http://opensoundcontrol.org/introduction-osc).
+- [batchExportPupilLabs](https://github.com/tombullock/batchExportPupilLabs) - Batch exports prercorded data as csv for a set of given recordings
 
 ## Demo Videos
 
