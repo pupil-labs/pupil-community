@@ -26,7 +26,10 @@ Want to add your demo video to this list? Make an [issue](https://github.com/pup
 - [Pupil Labs usybus Controller](https://github.com/Lahorde/pupil-labs-usybus-controller) - This plugin exports pupillabs eye tracking gaze to [Ivybus](http://www.eei.cena.fr/products/ivy/).
 - [Pupil progs](https://github.com/SGBon/pupil-progs) - Python helper scripts used with Pupil (post-hoc and real-time).
 - [@cpicanco's Pupil Player Plugins](https://github.com/cpicanco/player_plugins) - A collection of visualization and analysis plugins for Pupil Player.
-- [@cpicanco's Pupil Capture Plugins](https://github.com/cpicanco/capture_plugins) - A collection of plugins for Pupil Capture. Includes 
+- [@cpicanco's Pupil Capture Plugins](https://github.com/cpicanco/capture_plugins) - A collection of plugins for Pupil Capture.
+- [Online Task Proxy](https://gist.github.com/papr/0eaba2bc70755ffb1ad05385a3458a07) - Example plugin that shows how to use the `Task_Proxy` class in Pupil Capture
+- [Unix Time Sync](https://gist.github.com/papr/87c4ab1f3b533510c4585fee6c8dd430) - Example plugin that shows how to synchronize the Pupil clock to Unix time
+- [Depth Frame Accessor](https://gist.github.com/papr/0f13943e2aebd768ab6b1508d466caae) - Example plugin that shows how to access the 16 bit depth data of Realsense frames in Capture
 
 ## Scripts
 
@@ -39,6 +42,7 @@ Want to add your demo video to this list? Make an [issue](https://github.com/pup
 - [Pupil Middleman](https://github.com/mtaung/pupil_middleman#pupil-middleman) - A middleman client written in Python. This client can be used to interface with Pupil Capture and other sytems and languages that do not natively support ZeroMQ. 
 - [Surface OSC Bridge](https://github.com/papr/pupil-helpers/tree/oscbridge/pupil_remote/OSC_Python) - Redirects
 surface data using the [`OSC` protocol](http://opensoundcontrol.org/introduction-osc).
+- [extract_diameter.py](https://gist.github.com/papr/743784a4510a95d6f462970bd1c23972) - Extract 2d and 3d (if available) pupil diameters for a set of given recordings
 - [batchExportPupilLabs](https://github.com/tombullock/batchExportPupilLabs) - Batch exports prercorded data as csv for a set of given recordings
 
 ## Demo Videos
