@@ -30,6 +30,7 @@ Want to add your demo video to this list? Make an [issue](https://github.com/pup
 - [Online Task Proxy](https://gist.github.com/papr/0eaba2bc70755ffb1ad05385a3458a07) - Example plugin that shows how to use the `Task_Proxy` class in Pupil Capture
 - [Unix Time Sync](https://gist.github.com/papr/87c4ab1f3b533510c4585fee6c8dd430) - Example plugin that shows how to synchronize the Pupil clock to Unix time
 - [Depth Frame Accessor](https://gist.github.com/papr/0f13943e2aebd768ab6b1508d466caae) - Example plugin that shows how to access the 16 bit depth data of Realsense frames in Capture
+- [TaskLib Example](https://gist.github.com/ckbaumann/c21501ce28c4ba3cdd7bdf19fabb6d09) - Example plugin that demonstrates basic `task_lib` usage.
 
 ## Scripts
 
