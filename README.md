@@ -31,7 +31,7 @@ Want to add your demo video to this list? Make an [issue](https://github.com/pup
 - [Unix Time Sync](https://gist.github.com/papr/87c4ab1f3b533510c4585fee6c8dd430) - Example plugin that shows how to synchronize the Pupil clock to Unix time
 - [Depth Frame Accessor](https://gist.github.com/papr/0f13943e2aebd768ab6b1508d466caae) - Example plugin that shows how to access the 16 bit depth data of Realsense frames in Capture
 - [TaskLib Example](https://gist.github.com/ckbaumann/c21501ce28c4ba3cdd7bdf19fabb6d09) - Example plugin that demonstrates basic `task_lib` usage.
-
+- [Pupil 2D Detection Preview](https://github.com/Christopher22/pupil_preview) - Plugin which shows a scrollable gallery of eye images with 2D pupil detection after a recording stops. Its purpose is to get a brief visual insight of how good the detection will be, when the online detector was disabled due to perfomance or stability reasons. The eye images are saved with a fixed time interval in a subdirectory of the recording. It also shows the usage of changing the detection properties and accessing the GPOOL in a plugin. The frame publisher has to be enabled during recording.
 ## Scripts
 
 - [OptiTrack and Pupil Labs Python Recorder](https://github.com/mdfeist/OptiTrack-and-Pupil-Labs-Python-Recorder) - A simple python script that records data from Pupil Labs and OptiTrack.
