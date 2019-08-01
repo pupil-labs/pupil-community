@@ -19,6 +19,7 @@ Want to add your demo video to this list? Make an [issue](https://github.com/pup
 - [PupilCamC++](https://github.com/themrx/PupilCapture) - Interface for capture of Pupil labs cameras with C++, primarily for windows
 - [Pupil-lib Trial/Event Extraction Library](https://github.com/gmierz/pupil-lib-python) - A flexible tool for conducting high precision event based research analysis with Pupil Labs eye trackers. See [here](https://github.com/gmierz/pupil-lib-python/blob/master/README.md#running-a-compatible-experiment) for how to run an experiment that produces data compatible for this library. A [Matlab version](https://github.com/gmierz/pupil-lib) is also available.
 - [Mobile Gaze Mapping](https://github.com/jeffmacinnes/mobileGazeMapping) - Automatic gaze mapping between world camera and a fixed reference stimulus. This tool provides automatic detection of a 2D target stimulus in a mobile eye-tracking recording, and translates recorded gaze data from the world camera to the fixed coordinate system of the stimulus itself. 
+- [JupilLabs](https://github.com/auejin/JupilLabs) - A Processing(Java) binding for extracting data from pupil-labs with jeromq and msgpack-java
 
 ## Plugins
 
