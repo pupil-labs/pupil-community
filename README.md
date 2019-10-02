@@ -37,7 +37,7 @@ Want to add your demo video to this list? Make an [issue](https://github.com/pup
 
 - [OptiTrack and Pupil Labs Python Recorder](https://github.com/mdfeist/OptiTrack-and-Pupil-Labs-Python-Recorder) - A simple python script that records data from Pupil Labs and OptiTrack.
 - [Offline Gaze Mapping Tools for Pupil Labs Glasses](https://github.com/jeffmacinnes/pl_gazeMapping_offline) - Offline Gaze Mapping Tools for Pupil.
-- [Eye Tracking Research Data Analysis ](https://github.com/qalhata/Eye_Tracking_Research_Data_Analysis) - Python pupillometry analysis scripts to analyize pupil_data. 
+- [Eye Tracking Research Data Analysis ](https://github.com/qalhata/Eye-Tracking-Research-Fixation-EDA-PupilLabs-Data-) - Python pupillometry analysis scripts to analyize pupil_data. 
 - [Lab Matlab Control](https://github.com/TheGoldLab/Lab-Matlab-Control/tree/62d56585ef2fda3c17045dfcdc69e159eb317a38) - Custom utilities for experimental control.
 - [Pupil Pascal Client](https://github.com/cpicanco/pupil-fpc) - Free Pascal requester and subscriber clients for Pupil.
 - [Pupil MatLab Client](https://github.com/matiarj/pupil-helpers/tree/matlabAddV2/pupil_remote/Matlab_Python) - MatLab subscriber client for Pupil.
