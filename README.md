@@ -46,6 +46,7 @@ Want to add your demo video to this list? Make an [issue](https://github.com/pup
 surface data using the [`OSC` protocol](http://opensoundcontrol.org/introduction-osc).
 - [extract_diameter.py](https://gist.github.com/papr/743784a4510a95d6f462970bd1c23972) - Extract 2d and 3d (if available) pupil diameters for a set of given recordings
 - [batchExportPupilLabs](https://github.com/tombullock/batchExportPupilLabs) - Batch exports prercorded data as csv for a set of given recordings
+- [Network Topic Monitor](https://nbviewer.jupyter.org/gist/pfaion/115e13e822b308f0896b59bc7971d676) - A very simple network topic monitor. Shows notification count for every topic and how long ago the last notification was received.
 
 ## Demo Videos
 
