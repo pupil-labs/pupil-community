@@ -50,6 +50,7 @@ surface data using the [`OSC` protocol](http://opensoundcontrol.org/introduction
 - [extract_diameter.py](https://gist.github.com/papr/743784a4510a95d6f462970bd1c23972) - Extract 2d and 3d (if available) pupil diameters for a set of given recordings
 - [batchExportPupilLabs](https://github.com/tombullock/batchExportPupilLabs) - Batch exports prercorded data as csv for a set of given recordings
 - [Network Topic Monitor](https://nbviewer.jupyter.org/gist/pfaion/115e13e822b308f0896b59bc7971d676) - A very simple network topic monitor. Shows notification count for every topic and how long ago the last notification was received.
+- [Head pose rotation to yaw/pitch/roll](https://gist.github.com/ChingT/3830c9c2a7ef8bc327070745bf357410) - The Heade Pose Tracker in Pupil Player exports the head pose to `head_pose_tacker_poses.csv`. The linked function transforms the [head pose rotation vector](https://docs.pupil-labs.com/core/software/pupil-player/#analysis-plugins) to yaw/pitch/roll in degrees.
 
 ## Demo Videos
 
