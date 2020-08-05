@@ -35,7 +35,7 @@ Want to add your demo video to this list? Make an [issue](https://github.com/pup
 - [Pupil 2D Detection Preview](https://github.com/Christopher22/pupil_preview) - Plugin which shows a scrollable gallery of eye images with 2D pupil detection after a recording stops. Its purpose is to get a brief visual insight of how good the detection will be, when the online detector was disabled due to perfomance or stability reasons. The eye images are saved with a fixed time interval in a subdirectory of the recording. It also shows the usage of changing the detection properties and accessing the GPOOL in a plugin. The frame publisher has to be enabled during recording.
 - [RealSense D400 Source v1.22](https://gist.github.com/pfaion/080ef0d5bc3c556dd0c3cccf93ac2d11) - A port of the old realsense2 plugin (for RealSense D400 series cameras) to work with the new video source framework in Pupil Capture v1.22.
 - [Ximea Camera Plugin](https://github.com/vdutell/PupilXimea) - A plugin to preview and record frames from Ximea Cameras using XiAPI.
-- [Dual-monocular 3D Gazer](https://gist.github.com/papr/5e1f0fc9ef464691588b3f3e0e95f350) - 3D gaze mapping plugin that maps all pupil data monocularly. Recommended if when investigating strabismus or similar conditions. Requires Pupil v2.1 or higher.
+- [Dual-monocular 2D and 3D Gazers](https://gist.github.com/papr/5e1f0fc9ef464691588b3f3e0e95f350) - 2D and 3D gaze mapping plugins that map all pupil data monocularly. Recommended if when investigating strabismus or similar conditions. Requires Pupil v2.2 or higher.
 
 ## Scripts
 
