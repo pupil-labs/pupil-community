@@ -8,7 +8,7 @@ Want to add your project, fork, plugin, or script to this list? Fork this repo a
 Want to add your demo video to this list? Make an [issue](https://github.com/pupil-labs/pupil-community/issues) with the Youtube link and the maintainers will add the video to [this Youtube playlist](https://www.youtube.com/watch?v=X_BalnBOcpk&list=PLi20Yl1k_57pr6zl9D6JHSrOWyLXxsTQN).
 
 ## Projects & Forks
-
+- [Pupil Labs Motion Capture Trigger](https://github.com/N-M-T/Pupil-Labs-Mocap-Trigger) - Use a low-cost Arduino microcontroller to synchronise motion Capture systems (e.g. Vicon/Qualisys) with the Pupil Core Mobile eye tracker.
 - [Plugin to Perceive the Object in Focus](https://github.com/jesseweisberg/pupil) - Real-time object-detection plugin that integrates eye-tracking (fixation data) to identify which object the user is currently fixated upon. An example of its potential is shown in controlling grasps of a robotic prosthetic hand. Part of the [Therabotics Project](https://www.jesseweisberg.com/therabotics/)
 - [PolyMouse](https://github.com/trishume/PolyMouse) - PolyMouse is a fusion of gaze tracking and head tracking to achieve hands-free pointing. It does this by using eye gaze to quickly determine an imprecise area of interest and then uses small head movements to refine the position of the cursor onto a small target.
 - [Asistiva](https://github.com/hookdump/asistiva) - a set of tools for creating amazing web apps optimized to be used through different input methods (i.e. including eye-tracking, head-tracking, button-less mouse, adapted switches, etc).
@@ -38,7 +38,6 @@ Want to add your demo video to this list? Make an [issue](https://github.com/pup
 - [Dual-monocular 2D and 3D Gazers](https://gist.github.com/papr/5e1f0fc9ef464691588b3f3e0e95f350) - 2D and 3D gaze mapping plugins that map all pupil data monocularly. Recommended if when investigating strabismus or similar conditions. Requires Pupil v2.2 or higher.
 
 ## Scripts
-
 - [OptiTrack and Pupil Labs Python Recorder](https://github.com/mdfeist/OptiTrack-and-Pupil-Labs-Python-Recorder) - A simple python script that records data from Pupil Labs and OptiTrack.
 - [Offline Gaze Mapping Tools for Pupil Labs Glasses](https://github.com/jeffmacinnes/pl_gazeMapping_offline) - Offline Gaze Mapping Tools for Pupil.
 - [Eye Tracking Research Data Analysis ](https://github.com/qalhata/Eye-Tracking-Research-Fixation-EDA-PupilLabs-Data-) - Python pupillometry analysis scripts to analyize pupil_data. 
