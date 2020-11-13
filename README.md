@@ -7,6 +7,11 @@ Want to add your project, fork, plugin, or script to this list? Fork this repo a
 
 Want to add your demo video to this list? Make an [issue](https://github.com/pupil-labs/pupil-community/issues) with the Youtube link and the maintainers will add the video to [this Youtube playlist](https://www.youtube.com/watch?v=X_BalnBOcpk&list=PLi20Yl1k_57pr6zl9D6JHSrOWyLXxsTQN).
 
+## Pupil Detector Plugins
+Requires Pupil v2.6 or higher. Install instructions: https://docs.pupil-labs.com/developer/core/plugin-api/#adding-a-plugin
+- [`artificial_2d_pupil_detector.py`](https://gist.github.com/papr/ed35ab38b80658594da2ab8660f1697c): Example pupil detector plugin that generates artificial pupil data
+- [`custom_2d_pupil_detector.py`](https://gist.github.com/papr/b938ddc6315525d0f03da3668568e75c): Example pupil detector plugin that extends the default 2D detector
+
 ## Projects & Forks
 - [Pupil Video Backend](https://github.com/Lifestohack/pupil-video-backend) - Streams Video from another computer through the network to your computer where pupil capture software is running.
 - [Pupil Labs Motion Capture Trigger](https://github.com/N-M-T/Pupil-Labs-Mocap-Trigger) - Use a low-cost Arduino microcontroller to synchronise motion capture systems (e.g. Vicon/Qualisys) with the Pupil Core Mobile eye tracker.
@@ -23,6 +28,7 @@ Want to add your demo video to this list? Make an [issue](https://github.com/pup
 - [JupilLabs](https://github.com/auejin/JupilLabs) - A Processing(Java) binding for extracting data from pupil-labs with jeromq and msgpack-java
 
 ## Plugins
+Install instructions: https://docs.pupil-labs.com/developer/core/plugin-api/#adding-a-plugin
 
 - [Gaze-controlled VLC Player - gvlc](https://github.com/MPIK-COMMS/gcvlc) - Gaze-controlled VLC player using Pupil Capture.
 - [Pupil Labs usybus Controller](https://github.com/Lahorde/pupil-labs-usybus-controller) - This plugin exports pupillabs eye tracking gaze to [Ivybus](http://www.eei.cena.fr/products/ivy/).
