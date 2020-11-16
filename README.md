@@ -59,7 +59,7 @@ surface data using the [`OSC` protocol](http://opensoundcontrol.org/introduction
 - [Network Topic Monitor](https://nbviewer.jupyter.org/gist/pfaion/115e13e822b308f0896b59bc7971d676) - A very simple network topic monitor. Shows notification count for every topic and how long ago the last notification was received.
 - [Head pose rotation to yaw/pitch/roll](https://gist.github.com/ChingT/3830c9c2a7ef8bc327070745bf357410) - The Heade Pose Tracker in Pupil Player exports the head pose to `head_pose_tacker_poses.csv`. The linked function transforms the [head pose rotation vector](https://docs.pupil-labs.com/core/software/pupil-player/#analysis-plugins) to yaw/pitch/roll in degrees.
 - [Post-hoc fixation, saccade, and blink detection](https://github.com/teresa-canasbajo/bdd-driveratt/tree/master/eye_tracking/preprocessing) - Pipeline that takes in the pupil labs subject data and outputs cleaned fixation, saccades and blinks. It also has a surface detection & mapping option.
-- [Cognitive workload tool for the Pupil eye tracker](https://github.com/pignoniG/cognitive_analysis_tool) - Processing of eye tracking data, using the Pupil Labs eye tracker, for the measure of cognitive workload
+- [Cognitive workload tool for the Pupil eye tracker](https://github.com/pignoniG/cognitive_analysis_tool) - Processing of eye tracking data, using the Pupil Labs eye tracker, for the measure of cognitive workload. [Associated thesis](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2617732).
 
 ## Demo Videos
 
