@@ -45,6 +45,7 @@ Install instructions: https://docs.pupil-labs.com/developer/core/plugin-api/#add
     - From Pupil Capture v2.3 ([here](https://gist.github.com/romanroibu/c10634d150996b3c96be4cf90dd6fe29))
 - [Ximea Camera Plugin](https://github.com/vdutell/PupilXimea) - A plugin to preview and record frames from Ximea Cameras using XiAPI.
 - [Dual-monocular 2D and 3D Gazers](https://gist.github.com/papr/5e1f0fc9ef464691588b3f3e0e95f350) - 2D and 3D gaze mapping plugins that map all pupil data monocularly. Recommended if when investigating strabismus or similar conditions. Requires Pupil v2.2 or higher.
+- [pupil-t265](https://github.com/vedb/pupil-t265 "pupil-t265") - Calibrate, record and export tracking data from the Intel RealSense T265 tracking camera.
 
 ## Scripts
 - [OptiTrack and Pupil Labs Python Recorder](https://github.com/mdfeist/OptiTrack-and-Pupil-Labs-Python-Recorder) - A simple python script that records data from Pupil Labs and OptiTrack.
