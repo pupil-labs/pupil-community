@@ -67,3 +67,6 @@ surface data using the [`OSC` protocol](http://opensoundcontrol.org/introduction
 ## Demo Videos
 
 - [Pupil Demo Videos](https://www.youtube.com/watch?v=X_BalnBOcpk&list=PLi20Yl1k_57pr6zl9D6JHSrOWyLXxsTQN) - A playlist of community contributed videos.
+
+## Small Examples
+- [Visualize reference data from recorded calibrations](https://nbviewer.jupyter.org/gist/papr/ad50c1146d297deef9a1738a4731eb45)
