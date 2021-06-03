@@ -13,6 +13,7 @@ Requires Pupil v2.6 or higher. Install instructions: https://docs.pupil-labs.com
 - [`custom_2d_pupil_detector.py`](https://gist.github.com/papr/b938ddc6315525d0f03da3668568e75c): Example pupil detector plugin that extends the default 2D detector
 
 ## Projects & Forks
+- [*PyPlr*](https://github.com/PyPlr/cvd_pupillometry) - Many-featured Python library for researching the pupillary light reflex with Pupil Core
 - [Pupil Video Backend](https://github.com/Lifestohack/pupil-video-backend) - Streams Video from another computer through the network to your computer where pupil capture software is running.
 - [Pupil Labs Motion Capture Trigger](https://github.com/N-M-T/Pupil-Labs-Mocap-Trigger) - Use a low-cost Arduino microcontroller to synchronise motion capture systems (e.g. Vicon/Qualisys) with the Pupil Core Mobile eye tracker.
 - [Plugin to Perceive the Object in Focus](https://github.com/jesseweisberg/pupil) - Real-time object-detection plugin that integrates eye-tracking (fixation data) to identify which object the user is currently fixated upon. An example of its potential is shown in controlling grasps of a robotic prosthetic hand. Part of the [Therabotics Project](https://www.jesseweisberg.com/therabotics/)
