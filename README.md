@@ -25,7 +25,7 @@ Requires Pupil v2.6 or higher.
 
 ### Calibration Choreographies and Gazers
 - [Dual-monocular 2D and 3D Gazers](https://gist.github.com/papr/5e1f0fc9ef464691588b3f3e0e95f350) - 2D and 3D gaze mapping plugins that map all pupil data monocularly. Recommended if when investigating strabismus or similar conditions. Requires Pupil v2.2 or higher.
-- [Dual-display HMD calibration choreography and gazer](https://gist.github.com/papr/fcbafd5cf748c9b11e64a4dd37ec8e9a) - Dual-monocular 2d calibration, but with the possibility to calibrate two different target coordinate systems for each eye.
+- [Dual-display HMD calibration choreography and gazer](https://gist.github.com/papr/fcbafd5cf748c9b11e64a4dd37ec8e9a) - Dual-monocular 2d calibration, but with the possibility to calibrate different target coordinate systems for each eye.
 - [Nine-point calibration choreography](https://gist.github.com/papr/339dcb08caef45d3798a68aa4e619269)
 - [Custom calibration confidence threshold](https://gist.github.com/papr/04b9e4b9c1758c3701bf260dfa67f83f)
 
