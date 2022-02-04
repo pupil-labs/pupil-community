@@ -44,6 +44,7 @@ Requires Pupil v2.6 or higher.
 - [Video overlay with manual temporal-alignment option](https://gist.github.com/papr/ad8298ccd1c955dfafb21c3cbce130c8) - Allows to synchronize unaligned videos
 
 ### Others
+- [pupil-remote-php](https://github.com/ignacioxd/pupil-remote-php) - A simple PHP remote control client for the Pupil eye tracker software.
 - [LabStreamingLayer integration](https://github.com/labstreaminglayer/App-PupilLabs/)
 - [Annotations without log messages](https://gist.github.com/papr/7b940b2c02e05135f59d599a6a90c5f6) - Pupil Capture plugin that does not display a log message when receiving an annotation. This is helpful if you need to receive many annotations.
 - [Gaze from recording with manual offset correction](https://gist.github.com/papr/d3ec18dd40899353bb52b506e3cfb433)
