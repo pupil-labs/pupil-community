@@ -71,6 +71,7 @@ Requires Pupil v2.6 or higher.
 
 ## Scripts
 ### Real-time Network API clients
+- [pupil-remote-php](https://github.com/ignacioxd/pupil-remote-php) - A simple PHP remote control client for the Pupil eye tracker software.
 - [Lab Matlab Control](https://github.com/TheGoldLab/Lab-Matlab-Control/tree/62d56585ef2fda3c17045dfcdc69e159eb317a38) - Custom utilities for experimental control.
 - [Pupil Pascal Client](https://github.com/cpicanco/pupil-fpc) - Free Pascal requester and subscriber clients for Pupil.
 - [Pupil MatLab Client](https://github.com/matiarj/pupil-helpers/tree/matlabAddV2/pupil_remote/Matlab_Python) - MatLab subscriber client for Pupil.
