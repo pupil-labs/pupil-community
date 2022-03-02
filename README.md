@@ -80,6 +80,7 @@ Requires Pupil v2.6 or higher.
 - [OptiTrack and Pupil Labs Python Recorder](https://github.com/mdfeist/OptiTrack-and-Pupil-Labs-Python-Recorder) - A simple python script that records data from Pupil Labs and OptiTrack.
 - [Surface OSC Bridge](https://github.com/papr/pupil-helpers/tree/oscbridge/pupil_remote/OSC_Python) - Redirects
 surface data using the [`OSC` protocol](http://opensoundcontrol.org/introduction-osc).
+- [IPC Backend Simulator](https://gist.github.com/papr/49f58a894364dd94b23c53e6bc6929d0) - Simulates the Network API of a Pupil Capture instance, publishing data from a provided recording
 
 ### Post-hoc Analyses
 - [Generate Pupil-Player-compatible recording from externally recorded video](https://gist.github.com/papr/bae0910a162edfd99d8ababaf09c643a)
