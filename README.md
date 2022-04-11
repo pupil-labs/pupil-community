@@ -93,6 +93,7 @@ surface data using the [`OSC` protocol](http://opensoundcontrol.org/introduction
 - [Head pose rotation to yaw/pitch/roll](https://gist.github.com/ChingT/3830c9c2a7ef8bc327070745bf357410) - The Heade Pose Tracker in Pupil Player exports the head pose to `head_pose_tacker_poses.csv`. The linked function transforms the [head pose rotation vector](https://docs.pupil-labs.com/core/software/pupil-player/#analysis-plugins) to yaw/pitch/roll in degrees. Starting with Pupil Core v3.4, this feature is built into Pupil Player.
 - [Post-hoc fixation, saccade, and blink detection](https://github.com/teresa-canasbajo/bdd-driveratt/tree/master/eye_tracking/preprocessing) - Pipeline that takes in the pupil labs subject data and outputs cleaned fixation, saccades and blinks. It also has a surface detection & mapping option.
 - [Cognitive workload tool for the Pupil eye tracker](https://github.com/pignoniG/cognitive_analysis_tool) - Processing of eye tracking data, using the Pupil Labs eye tracker, for the measure of cognitive workload. [Associated thesis](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2617732).
+- [CLAHE Scene Video Post-Processing](https://gist.github.com/papr/045c6b6ad2eeedbae8cc2e0c503bb729) - Preview plugin for Pupil Player and application script to apply [CLAHE](https://docs.opencv.org/4.x/d5/daf/tutorial_py_histogram_equalization.html) permanently to the scene video
 
 ### Small Examples
 - [Visualize reference data from recorded calibrations](https://nbviewer.jupyter.org/gist/papr/ad50c1146d297deef9a1738a4731eb45)
