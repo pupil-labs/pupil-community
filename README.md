@@ -15,6 +15,7 @@ Install instructions: https://docs.pupil-labs.com/developer/core/plugin-api/#add
 Requires Pupil v2.6 or higher.
 - [`artificial_2d_pupil_detector.py`](https://gist.github.com/papr/ed35ab38b80658594da2ab8660f1697c): Example pupil detector plugin that generates artificial pupil data
 - [`custom_2d_pupil_detector.py`](https://gist.github.com/papr/b938ddc6315525d0f03da3668568e75c): Example pupil detector plugin that extends the default 2D detector
+- [`custom_pye3d.py`](https://gist.github.com/papr/af39155d853528fb29cc38571c07287f): Plugin that exposes pye3d's internal settings via the UI
 
 ### Video Backends
 - RealSense D400 Source v1.22 - A port of the old realsense2 plugin (for RealSense D400 series cameras) to work with the new video source framework in Pupil Capture v1.22.
