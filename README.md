@@ -70,6 +70,7 @@ Requires Pupil v2.6 or higher.
 - [Mobile Gaze Mapping](https://github.com/jeffmacinnes/mobileGazeMapping) - Automatic gaze mapping between world camera and a fixed reference stimulus. This tool provides automatic detection of a 2D target stimulus in a mobile eye-tracking recording, and translates recorded gaze data from the world camera to the fixed coordinate system of the stimulus itself. 
 - [JupilLabs](https://github.com/auejin/JupilLabs) - A Processing(Java) binding for extracting data from pupil-labs with jeromq and msgpack-java
 - [Save data where users looked](https://github.com/FJK22/pupil-SaveData-WhereUserLooked) - A script that allows to save data where the user has looked using Pupil in a Unity Application
+- [Luxometer](https://gitlab.com/MenosGrandes/pupillabupgrades) - Added functionality to read data from a AdafruitTSL2591 via serial (linux only; [via](https://github.com/pupil-labs/pupil/issues/2243))
 
 ## Scripts
 ### Real-time Network API clients
