@@ -56,7 +56,8 @@ Requires Pupil v2.6 or higher.
 - [@cpicanco's Pupil Capture Plugins](https://github.com/cpicanco/capture_plugins) - A collection of plugins for Pupil Capture.
 - [Pupil 2D Detection Preview](https://github.com/Christopher22/pupil_preview) - Plugin which shows a scrollable gallery of eye images with 2D pupil detection after a recording stops. Its purpose is to get a brief visual insight of how good the detection will be, when the online detector was disabled due to perfomance or stability reasons. The eye images are saved with a fixed time interval in a subdirectory of the recording. It also shows the usage of changing the detection properties and accessing the GPOOL in a plugin. The frame publisher has to be enabled during recording.
 - [pupil-t265](https://github.com/vedb/pupil-t265 "pupil-t265") - Calibrate, record and export tracking data from the Intel RealSense T265 tracking camera.
-- [Export PI template data](https://gist.github.com/papr/4dea04ac8a4f72fe205dc4f25c6ad0ea) - Pupil Player plugin to export template questions and answers from Pupil Invisible recordings 
+- [Export PI template data](https://gist.github.com/papr/4dea04ac8a4f72fe205dc4f25c6ad0ea) - Pupil Player plugin to export template questions and answers from Pupil Invisible recordings
+- [Cursor Control](https://github.com/emendir/PupilCore-CursorControl) - Use surface tracking and surface-mapped gaze to move your computer's mouse cursor.
 
 ## Projects & Forks
 - [PyPlr](https://github.com/PyPlr/cvd_pupillometry) - Many-featured Python library for researching the pupillary light reflex with Pupil Core. Easily time-stamp any light stimulus with the World Camera. 
