@@ -9,7 +9,7 @@ Want to add your demo video to this list? Make an [issue](https://github.com/pup
 
 
 ## Plugins
-Install instructions: https://docs.pupil-labs.com/developer/core/plugin-api/#adding-a-plugin
+Install instructions: https://docs.pupil-labs.com/core/developer/plugin-api/#adding-a-plugin
 
 ### Pupil Detector Plugins
 Requires Pupil v2.6 or higher.
